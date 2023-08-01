@@ -19,3 +19,8 @@ mb-3: A classe mb-3 é uma classe de margem inferior do Bootstrap que adiciona m
 row: A classe row é usada para criar uma linha na qual as colunas serão colocadas lado a lado. As colunas devem estar dentro de uma div com a classe row.
 
 col-md-6: A classe col-md-6 é uma classe de coluna do Bootstrap que divide a largura da linha em duas colunas iguais em dispositivos de tamanho médio (md) ou maiores. Cada <input> é colocado dentro de uma coluna com a classe col-md-6, assim eles ficarão lado a lado na mesma linha.
+
+## Class BTN
+
+"d-flex" - Isso permitirá que os elementos dentro dessa div sejam exibidos na mesma linha.
+classe "justify-content-end" para alinhar o botão à direita.

@@ -1,0 +1,9 @@
+.custom-button{
+    border: 1px solid green;
+    width: 100%;
+}
+
+.row{
+    width: 100%;
+    justify-content: end;
+}
